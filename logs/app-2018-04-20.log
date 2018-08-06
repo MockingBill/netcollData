@@ -1,0 +1,3 @@
+[2018-04-20 11:36:40.121] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-04-20 14:31:54.861] [INFO] app - queryStatus-Error: connect ECONNREFUSED 127.0.0.1:3006
+[2018-04-20 14:33:35.959] [INFO] app - queryStatus-Error: connect ECONNREFUSED 127.0.0.1:3006

@@ -1,0 +1,10 @@
+[2018-06-11 17:02:53.572] [INFO] app - saveNetCollData-Error: ER_DUP_ENTRY: Duplicate entry '5c4c6ea0-04f1-44fc-b7d8-a2a61166ba73' for key 'PRIMARY'
+[2018-06-11 17:03:37.669] [INFO] app - saveNetCollData-Error: ER_DUP_ENTRY: Duplicate entry '14342d0d-3b77-48f2-b20c-b05a328412db' for key 'PRIMARY'
+[2018-06-11 17:07:22.281] [INFO] app - saveNetCollData-Error: ER_DUP_ENTRY: Duplicate entry 'ed4ca3cb-cb82-4454-8d2a-477beec9cc17' for key 'PRIMARY'
+[2018-06-11 17:09:46.969] [INFO] app - saveNetCollData-Error: ER_DUP_ENTRY: Duplicate entry 'e4f928e6-8bf7-4d56-a6a5-5bed0b510a3c' for key 'PRIMARY'
+[2018-06-11 17:17:24.881] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-06-11 17:17:24.888] [INFO] app - 事务失败，[object Object]，ERROR：Error: ER_DUP_ENTRY: Duplicate entry 'e9a4d45a-c362-4d27-8bed-5818dbc7d7e5' for key 'PRIMARY'
+[2018-06-11 17:17:24.889] [INFO] app - transaction error: Error: ER_DUP_ENTRY: Duplicate entry 'e9a4d45a-c362-4d27-8bed-5818dbc7d7e5' for key 'PRIMARY'
+[2018-06-11 17:17:24.889] [INFO] app - transaction error: null
+[2018-06-11 17:17:24.890] [INFO] app - null
+[2018-06-11 17:17:24.892] [INFO] app - null

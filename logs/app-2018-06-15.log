@@ -1,0 +1,28 @@
+[2018-06-15 14:31:13.850] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-15 14:31:17.624] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-15 14:31:40.920] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-06-15 14:31:40.945] [INFO] app - transaction error: null
+[2018-06-15 14:31:40.949] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-06-15 14:31:40.950] [INFO] app - null
+[2018-06-15 14:31:40.954] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-06-15 14:32:20.059] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-06-15 14:32:20.063] [INFO] app - transaction error: null
+[2018-06-15 14:32:20.065] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-06-15 14:32:20.066] [INFO] app - null
+[2018-06-15 14:32:20.066] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }

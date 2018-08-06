@@ -1,0 +1,108 @@
+[2018-07-07 21:21:55.078] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-07-07 21:21:55.100] [INFO] app - transaction error: null
+[2018-07-07 21:21:55.103] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:21:55.103] [INFO] app - null
+[2018-07-07 21:21:55.104] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:22:15.277] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:22:29.737] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:24:08.943] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:24:45.450] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-07-07 21:24:45.451] [INFO] app - transaction error: null
+[2018-07-07 21:24:45.452] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:24:45.452] [INFO] app - null
+[2018-07-07 21:24:45.452] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:26:02.703] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-07-07 21:26:02.705] [INFO] app - transaction error: null
+[2018-07-07 21:26:02.709] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:26:02.710] [INFO] app - null
+[2018-07-07 21:26:02.710] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:27:48.725] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:28:31.304] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:28:41.628] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:34:59.090] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-07-07 21:34:59.094] [INFO] app - transaction error: null
+[2018-07-07 21:34:59.098] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:34:59.098] [INFO] app - null
+[2018-07-07 21:34:59.098] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:35:23.812] [INFO] app - 开始执行transaction，共执行1条数据
+[2018-07-07 21:35:23.818] [INFO] app - 事务失败，[object Object]，ERROR：Error: ER_DUP_ENTRY: Duplicate entry 'a8f98320-36ac-4067-8d66-241f35871e0d' for key 'PRIMARY'
+[2018-07-07 21:35:23.818] [INFO] app - transaction error: Error: ER_DUP_ENTRY: Duplicate entry 'a8f98320-36ac-4067-8d66-241f35871e0d' for key 'PRIMARY'
+[2018-07-07 21:35:23.818] [INFO] app - transaction error: null
+[2018-07-07 21:35:23.818] [INFO] app - null
+[2018-07-07 21:35:23.819] [INFO] app - null
+[2018-07-07 21:36:01.521] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-07-07 21:36:01.523] [INFO] app - transaction error: null
+[2018-07-07 21:36:01.527] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:36:01.527] [INFO] app - null
+[2018-07-07 21:36:01.528] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:41:08.457] [INFO] app - 开始执行transaction，共执行2条数据
+[2018-07-07 21:41:08.462] [INFO] app - transaction error: null
+[2018-07-07 21:41:08.465] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:41:08.465] [INFO] app - null
+[2018-07-07 21:41:08.465] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:41:15.364] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:44:21.666] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:44:23.920] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:48:08.078] [INFO] app - 开始执行transaction，共执行1条数据
+[2018-07-07 21:48:08.085] [INFO] app - transaction error: null
+[2018-07-07 21:48:08.088] [INFO] app - transaction info: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[2018-07-07 21:48:08.088] [INFO] app - null
+[2018-07-07 21:48:08.088] [INFO] app - OkPacket {
+  fieldCount: 0,
+  affectedRows: 0,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2018-07-07 21:49:17.218] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-07-07 21:55:26.934] [INFO] app - 状态变更查询-手机号：18785185684

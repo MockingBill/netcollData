@@ -1,0 +1,29 @@
+[2018-06-13 14:00:11.556] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:00:11.676] [INFO] app - queryStatus-Error: connect ECONNREFUSED 127.0.0.1:3306
+[2018-06-13 14:00:46.939] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:00:49.172] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:02:14.956] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:02:41.506] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:04:19.847] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:07:40.762] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:10:15.760] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:11:38.248] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:11:48.539] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:12:13.400] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:12:56.211] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:15:41.324] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:16:25.908] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:16:29.227] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:28:05.830] [INFO] app - 状态变更查询-手机号：18785185684
+[2018-06-13 14:53:07.655] [INFO] app - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at /Users/dengqian/WebstormProjects/netCellForData/routes/index.js:26:28
+    at Layer.handle [as handle_request] (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/index.js:317:13)
+    at /Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/dengqian/WebstormProjects/netCellForData/node_modules/express/lib/router/layer.js:95:5)
+[2018-06-13 17:10:32.820] [INFO] app - 状态变更查询-手机号：18785141244
